@@ -1,6 +1,6 @@
 Cards CRUD
 ======
-## List cards
+## List
 You can see a list of the cards belonging to a customer. Note that the 10 most recent sources are always available on the Customer object. If you need more than those 10, you can use this API method and the limit and starting_after parameters to page through additional cards.
 
 >Request Headers
