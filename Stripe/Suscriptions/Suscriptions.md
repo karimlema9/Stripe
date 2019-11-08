@@ -401,7 +401,7 @@ Header:     Authorization 12345678901234567890
 }
 ~~~
 
-## Cancele
+## Cancel
 Cancels a customer’s subscription immediately. The customer will not be charged again for the subscription.
 
 >Request Headers
